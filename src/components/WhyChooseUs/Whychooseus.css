@@ -1,0 +1,96 @@
+.why-choose-us{
+    width: 1920px;
+    
+
+    .wcu-bigbox{
+        width: 1620px;
+        height: 630px;
+
+        margin-top: 61px;
+        margin-left: 300px;
+        
+        display: flex;
+    
+        
+
+        .wcu-leftbox{
+            
+            .wcu-text{
+                p{
+                    color: red;
+                }
+            }
+
+            .wcu-leftboxdown{
+                
+                margin-top: 60px;
+
+                h6{
+                    font-size: 22px;
+                }
+
+                i{
+                    font-size: 30px;
+                }
+
+                .wcu-symbol{
+                    display: flex;
+                    gap: 25px;
+                    margin-top: 35px;
+                }
+
+
+
+            }
+
+
+
+
+
+        }
+
+
+        .wcu-rightbox{
+            display: flex;
+            align-items: end;
+            margin-left: auto ;
+            position: relative;
+            
+
+            .wcu-image{
+                position: absolute;
+                margin-bottom: 100px;
+                margin-left: 113px;
+
+            }
+
+
+
+            
+            .wcu-background{
+            width: 1057px;
+            height: 425px;
+            background-color: #F0EFE9;
+            }
+            
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+    
+
+
+
+
+
+
+}

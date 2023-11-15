@@ -1,0 +1,41 @@
+.updates-by-sign-up {
+    border: 1px solid #F0EFE9;
+    background-color: #F0EFE9;
+    width: 1920px;
+    height: 270px;
+    display: flex;
+    justify-content: center;
+  }
+  .updates-by-sign-up .ups-bigbox {
+    border: 1px solid #F0EFE9;
+    width: 1270px;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .updates-by-sign-up .ups-bigbox .ups-bigtext {
+    font-size: 45px;
+  }
+  .updates-by-sign-up .ups-bigbox .ups-search-button a {
+    margin-left: 20px;
+    background-color: #F9D783;
+    color: black;
+    padding: 13px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+  }
+  .updates-by-sign-up .ups-bigbox .ups-search-button a:hover {
+    background-color: black;
+    color: #F9D783;
+  }
+  .updates-by-sign-up .ups-bigbox .ups-search-button i {
+    margin-left: 10px;
+  }
+  .updates-by-sign-up .ups-bigbox .ups-search-button input {
+    border: none;
+    outline: none;
+    padding: 13px 45px;
+    border-radius: 30px;
+  }

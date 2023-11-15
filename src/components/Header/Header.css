@@ -1,0 +1,61 @@
+
+  
+  header {
+    background-color: #F0EFE9;
+    height: 120px;
+  }
+  header a {
+    text-decoration: none;
+    color: black;
+  }
+  header .Container {
+    display: flex;
+    padding-left: 318px;
+    padding-top: 20px;
+    gap: 75px;
+  }
+  header .topbox {
+    display: flex;
+    align-items: baseline;
+    border-bottom: 1px solid #DAD9D3;
+  }
+  header .topbox .contact {
+    display: flex;
+    gap: 56px;
+    padding-right: 353px;
+  }
+  header .topbox .socialmedia {
+    display: flex;
+    gap: 20px;
+    padding-bottom: 10px;
+  }
+  header .topbox .socialmedia a {
+    color: black;
+  }
+  header .topbox .socialmedia a:hover {
+    color: #F9D783;
+  }
+  header .bottombox {
+    display: flex;
+    align-items: baseline;
+  }
+  header .bottombox .menubuttons {
+    display: flex;
+    margin-top: 20px;
+    gap: 35px;
+    padding-right: 740px;
+  }
+  header .bottombox .menubuttons a:hover {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+  header .bottombox .loginButton {
+    background-color: #F9D783;
+    border: #F9D783;
+    padding: 10px 20px;
+    border-radius: 30px;
+  }
+  header .bottombox .loginButton:hover {
+    background-color: rgb(0, 0, 0);
+    color: #F9D783;
+  }

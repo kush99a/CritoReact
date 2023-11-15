@@ -1,0 +1,126 @@
+.meet-our-team {
+    border: 1px solid #F9D783;
+    background-color: #F9D783;
+    width: 1920px;
+    height: 1964px;
+  }
+  .meet-our-team .mot-bigbox {
+    width: 1320px;
+    height: 764px;
+    margin-left: 300px;
+    margin-top: 120px;
+  }
+  .meet-our-team .mot-bigbox .mot-text p {
+    color: red;
+  }
+  .meet-our-team .mot-bigbox .mot-text .mot-rubrik {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .meet-our-team .mot-bigbox .mot-text .mot-rubrik i {
+    margin-left: 10px;
+  }
+  .meet-our-team .mot-bigbox .mot-text .mot-rubrik a {
+    border: 1px solid black;
+    background-color: #F9D783;
+    padding: 13px 45px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #0E1021;
+  }
+  .meet-our-team .mot-bigbox .mot-text .mot-rubrik a:hover {
+    border: 1px solid black;
+    background-color: black;
+    color: #F9D783;
+  }
+  .meet-our-team .mot-bigbox .mot-team {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 95px;
+  }
+  .meet-our-team .mot-bigbox .mot-team .box {
+    width: 308px;
+    height: 507px;
+  }
+  .meet-our-team .mot-bigbox .mot-team .box h4 {
+    margin-top: 30px;
+  }
+  .meet-our-team .mot-bigbox .mot-dotswitch a {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+  }
+  .meet-our-team .t-bigbox {
+    border: 1px solid white;
+    background-color: white;
+    width: 1520px;
+    height: 887px;
+    margin-left: 200px;
+    margin-top: 70px;
+  }
+  .meet-our-team .t-bigbox .t-text {
+    margin-top: 125px;
+  }
+  .meet-our-team .t-bigbox .t-text p {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 18px;
+  }
+  .meet-our-team .t-bigbox .t-text h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+  }
+  .meet-our-team .t-bigbox .t-review {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+  }
+  .meet-our-team .t-bigbox .t-review .box {
+    width: 420px;
+    height: 402px;
+  }
+  .meet-our-team .t-bigbox .t-review .box .t-star {
+    color: #F94D1C;
+    margin-left: 30px;
+    margin-top: 50px;
+  }
+  .meet-our-team .t-bigbox .t-review .box .t-textreview {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 18px;
+  }
+  .meet-our-team .t-bigbox .t-review .box .t-image {
+    display: flex;
+    gap: 20px;
+    margin-left: 30px;
+    margin-top: 40px;
+  }
+  .meet-our-team .t-bigbox .t-review .box .t-image p {
+    color: #F94D1C;
+  }
+  .meet-our-team .t-bigbox .t-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .meet-our-team .t-bigbox .t-button a {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 40px;
+    text-decoration: none;
+  }
+  .meet-our-team .t-bigbox .t-button a i {
+    margin-left: 10px;
+  }
+  .meet-our-team .t-bigbox .t-button a:hover {
+    background-color: white;
+    color: black;
+  }

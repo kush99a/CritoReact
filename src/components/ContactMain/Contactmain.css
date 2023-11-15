@@ -1,0 +1,131 @@
+section {
+    width: 1920px;
+    height: 1592px;
+    margin-bottom: 621px;
+    background-color: white;
+  }
+  section a {
+    color: black;
+    text-decoration: none;
+    
+  }
+  section .bigbox {
+    border: 1px solid #F0EFE9;
+    width: 1920px;
+    height: 300px;
+    background-color: #F0EFE9;
+  }
+  section .bigbox .mid-box {
+    border: 1px solid #F0EFE9;
+    width: 366px;
+    height: 102px;
+    margin: auto;
+    margin-top: 105px;
+  }
+  section .bigbox .mid-box .button-box {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+  }
+  section .bigbox .mid-box .button-box a {
+    color: black;
+    font-size: 16px;
+  }
+  section .bigbox .mid-box .button-box a:hover {
+    font-weight: 500;
+  }
+  section .bigbox .mid-box .rubrik-box {
+    display: flex;
+    justify-content: center;
+  }
+  section .bigbox .mid-box .rubrik-box h1 {
+    font-size: 56px;
+  }
+  section .contact-us-bigbox {
+    border: 1px solid white;
+    width: 1320px;
+    height: 206px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 120px;
+  }
+  section .contact-us-bigbox .box {
+    width: 420px;
+    height: 206px;
+  }
+  section .contact-us-bigbox .box .cu-symbol {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 50px;
+    gap: 27px;
+  }
+  section .contact-us-bigbox .box .cu-symbol i {
+    font-size: 40px;
+  }
+  section .leave-message {
+    border: 1px solid #F0EFE9;
+    background-color: #F0EFE9;
+    width: 1320px;
+    height: 766px;
+    margin: auto;
+    margin-top: 80px;
+  }
+  section .leave-message .lm-text {
+    width: 441px;
+    height: 115px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 125px;
+  }
+  section .leave-message .lm-searchbox {
+    margin-top: 25px;
+    margin-left: 150px;
+  }
+  section .leave-message .lm-searchbox input {
+    border: none;
+    outline: none;
+  }
+  section .leave-message .lm-searchbox .lm-search {
+    margin-top: 15px;
+  }
+  section .leave-message .lm-searchbox .lm-search input {
+    padding: 15px 420px;
+    border-radius: 30px;
+  }
+  section .leave-message .lm-searchbox .lm-searchbig {
+    margin-top: 15px;
+  }
+  section .leave-message .lm-searchbox .lm-searchbig input {
+    padding: 50px 420px;
+    border-radius: 30px;
+  }
+  section .leave-message .lm-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+  }
+  section .leave-message .lm-button button {
+    background-color: #F9D783;
+    color: black;
+    padding: 10px 450px;
+    border-radius: 30px;
+    margin-right: 150px;
+    border-color: #F9D783;
+    
+  }
+  section .leave-message .lm-button button:hover {
+    background-color: black;
+    color: #F9D783;
+    border-color: black;
+  }
+  section .map {
+    width: 1920px;
+    height: 620px;
+    margin-top: 120px;
+  }
+  .error {
+    color: rgb(240, 44, 44);
+  }
